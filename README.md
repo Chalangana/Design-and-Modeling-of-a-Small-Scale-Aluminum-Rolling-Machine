@@ -1,2 +1,2 @@
 # Design-and-Modeling-of-a-Small-Scale-Aluminum-Rolling-Machine
-Designed and modeled a small-scale aluminum rolling machine using SolidWorks
+Designed and modeled a small-scale aluminum rolling machine using SolidWorks, based on calculated mechanical dimensions. Focused on accurate component design to ensure functionality, material flow, and manufacturability for small-scale operations. This was a two-member project, where I was responsible for modeling the rolling machine in SolidWorks according to the calculated values.
